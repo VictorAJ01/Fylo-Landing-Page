@@ -1,0 +1,356 @@
+@media screen and (min-width: 768px){
+    body{
+        background-color: hsl(218, 28%, 13%);
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .nav{
+        background-color: hsl(217, 28%, 15%);
+    }
+
+    .navContent{
+        display: flex;
+        flex-direction: row;
+        padding: 5%;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 400;
+        gap: 75%;
+    }
+
+    #logo1{
+        width: 75%;
+        height: 90%;
+    }
+
+    .navlinks, a{
+        text-decoration: none;
+        color: #fff;
+        font-size: 0.9rem;
+        margin-top: 0.5%;
+    }
+
+    .img1{
+        margin-top: 0;
+        width: 40%;
+        height: 40%;
+        padding-left: 30%;
+        margin-bottom: 2%;
+    }
+
+    .heading{
+        background-image: none;
+    }
+
+    .section{
+        background-color: hsl(217, 28%, 15%);
+    }
+
+    h1{
+        font-size: 2rem;
+        color: #fff;
+        text-align: center;
+        font-weight: none;
+        font-family: 'Raleway', sans-serif;
+        padding: 0 25% 3% 25%;
+        margin-bottom: 0%;
+    }
+
+    p{
+        color: #fff;
+        text-align: center;
+        font-weight: 0;
+        padding-left: 31%;
+        padding-right: 31%;
+        margin-bottom: 3%;
+        margin-top: 0%;
+        font-size: 1.05rem;
+        font-weight: none;
+    }
+
+    .getStarted{
+        color: #fff;
+        background-image: linear-gradient(to right, hsl(176, 68%, 64%), hsl(198, 60%, 50%));
+        text-align: center;
+        margin-left: 41%;
+        width: 18%;
+        padding: 1% 0;
+        border-radius: 70px;
+        font-weight: 500;
+        margin-bottom: 20%;
+    }
+
+    .middle1{
+        margin-left: 0%;
+    }
+
+    .section{
+        background-image: url(../images/bg-curvy-desktop.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .onediv, .twodiv{
+        display: flex;
+        flex-direction: row;
+        padding-left: 10%;
+        padding-right: 10%;
+        margin-bottom: -15%;
+    }
+
+    .twodiv{
+        margin-bottom: -30%;
+        margin-top: -20%;
+    }
+
+    .reduce{
+        font-size: 0.8rem;
+        padding: 0 19% 0 19%;
+    }
+
+     .reduceB{
+        font-size: 0.8rem;
+        padding: 0 16% 0 16%;
+    }
+
+    .reduceC{
+        font-size: 0.8rem;
+        padding: 0 21% 0 21%;
+    }
+
+    h2{
+        color: #fff;
+        text-align: center;
+        font-weight: 400;
+        margin-bottom: 2%;
+        font-family: 'Raleway', sans-serif;
+        font-size: 1.25rem;
+    }
+
+    .img3, .img4, .img5, .img6{
+        margin-left: 43%;
+    } 
+
+    .middle2{
+        margin-top: -1%;
+    }
+
+    .middle5{
+        display: flex;
+        flex-direction: row;
+        margin-bottom: -8;
+    }
+
+    .subdiv{
+        display: flex;
+        flex-direction: column;
+        margin-top: 20%;
+    }
+
+    .img6{
+        width: 40%;
+        object-fit: contain;
+        margin-left: 10%;
+        margin-bottom: 5%;
+    }
+
+    #diffh2{
+        font-family: 'Raleway', sans-serif;
+        text-align: left;
+        font-size: 2.1rem;
+        font-weight: 700;
+        margin-left: 7.5%;
+        padding-right: 35%;
+        }
+
+    .align, #spep{
+        font-size: 0.9rem;
+        padding-right: 19%;
+    }
+
+    #line{
+        width: 17%;
+        height: 1px;
+        background-color: hsl(176, 68%, 64%);
+        margin: -3% 0 0 29.7%;
+    }
+
+    #img7{
+        width: 2%;
+        height: 2%;
+        margin-left: -18.5%;
+    }
+
+    .arrow{
+        margin-left: -32%;
+        margin-top: 2%;
+    }
+
+    #img8{
+        width: 4%;
+        height: 4%;
+        margin-left: 9.4%; 
+        margin-top: -5%;
+    }
+
+    .testimonies{
+        display: flex;
+        flex-direction: row;
+        margin-top: -0.5%;
+        margin-bottom: -33%;
+    }
+
+    .quote1, .quote2, .quote3{
+        background-color: hsl(219, 30%, 18%);
+        border-radius: 5px;
+        width: 25%;
+        /* height: 185px; */
+        margin: 0% -8% 50% 10%;
+        padding-bottom: 3%;
+        padding-top: 2%;
+    }
+
+    #quotep{
+        color: #fff;
+        font-size: 0.8rem;
+        padding: 4% 9% 7% 9%;
+        font-weight: none;
+    }
+
+    .compact1{
+        display: flex;
+        flex-direction: row;
+        padding: 0 6%;
+        gap: 3%;
+        margin-left: 3.5%;
+    }
+
+    h5{
+        margin-bottom: 1%;
+    }
+
+    #compact1{
+        width: 9%;
+        height: 9%;
+        border-radius: 80px;
+    }
+
+    #logo{
+        width: 12%;
+        height: 12%;
+        margin: 14% 0 5% 0%;
+    }
+
+    .location{
+        width: 33%;
+    }
+
+    .footerp{
+        text-align: left;
+        padding-left: 5%;
+        padding-right: 0%;
+        margin-top: -2%;
+    }
+
+    #call, #email{
+        width: 10%;
+        height: 15px;
+    }
+
+    .address{
+        width: 4.5%;
+        height: 5.5%;
+    }
+ 
+    .signup{
+        float: inline-start;
+        clear: both;
+        background-color: hsl(219, 30%, 18%);
+        border-radius: 10px;
+        margin: 0% 5% -5% 23%;
+        width: 60%;
+    }
+
+    h3{
+        color: #fff;
+        text-align: center;
+        font-size: 2rem;
+        font-weight: 700;
+        margin-bottom: 4%;
+        margin-top: 5%;
+        font-family: 'Raleway', sans-serif;
+    } 
+
+    #distin{
+        color: #fff;
+        text-align: center;
+        padding-left: 12%;
+        padding-right: 12%;
+        margin-bottom: 3%;
+        font-size: 0.8rem;
+        font-weight: none;
+    }
+
+    .freeReg{
+        color: #fff;
+        background-image: linear-gradient(to right, hsl(176, 68%, 64%), hsl(198, 60%, 50%));
+        text-align: center;
+        margin-left: 4%;
+        width: 25%;
+        padding: 1.4% 0;
+        border-radius: 50px;
+        font-size: 0.9rem;
+        font-weight: 500;
+        margin-bottom: 5%;
+    }
+
+    .freeReg1{
+        background-color: #fff;
+        border-color: #fff;
+        text-align: left;
+        margin-left: 8%;
+        width: 50%;
+        border-radius: 70px;
+        padding: 1% 0% 1.6% 0;
+        margin-bottom: 5%;
+    }
+
+    .footerLinks{
+        display: flex;
+        flex-direction: row;
+        margin-left: 10%;
+    }
+
+    .footerwrap{
+        display: flex;
+        flex-direction: row;
+        background-color:  hsl(216, 53%, 9%);
+        padding: 10% 0 -5% -5%;
+        margin-top: 0%;
+        font-size: 0.9rem;
+    }
+
+    .call{
+        margin-bottom: 10%;
+    }
+
+    .call_mail{
+        display: flex;
+        flex-direction: column;
+        margin-left: 5%;
+    }
+
+    .call, .email, .location{
+        display: flex;
+        flex-direction: row;
+    }
+
+    #icons{
+        display: flex;
+        flex-direction: row;
+        margin-left: 10%;
+        padding-bottom: -5%;
+        margin-top: 0%;
+    }
+
+}
